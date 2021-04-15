@@ -1,5 +1,5 @@
 # TOS-Bad-Apple
-The code to play Bad Apple!! on TempleOS
+The code to play Bad Apple!! on TempleOS. This is the code from this video https://www.youtube.com/watch?v=vP7HIdFsSsM
 
 Sorry, the code is messy and if it's inefficient.
 
